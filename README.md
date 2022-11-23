@@ -1,2 +1,2 @@
 # CivilizationVI_Mods
-Here are some little mod that I make in leisure time.
+Here are some little mods for CivilizationVI that I made in leisure time.
